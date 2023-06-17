@@ -28,10 +28,7 @@
   <a href="https://codeforces.com/profile/Code_Genius">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://github.com/Mido191020/Hospital-management-system">
-    <img alt="Hospital Management System" src="https://img.shields.io/badge/Hospital%20Management%20System-2B9EB3?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Mido191020/">
+  <a href="https://github.com/MohamedR4dy/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
