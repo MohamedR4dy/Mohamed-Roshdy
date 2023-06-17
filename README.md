@@ -5,9 +5,7 @@
 <h3 align="center">
       Welcome to Mohamed Roshdy's profile! ♥
  </h3>
-<p align="center">
-      <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
-</p>
+
 
 
 
