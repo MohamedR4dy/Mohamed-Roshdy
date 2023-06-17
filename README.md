@@ -1,11 +1,28 @@
 <img width="250" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<h3 align="center">
-  Welcome to Mohamed Roshdy's profile! ♥
-  </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
-</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body>
+    <h3 align="center">
+      Welcome to Mohamed Roshdy's profile! ♥
+    </h3>
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+    </p>
+  </body>
+</html>
+
 
 
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
