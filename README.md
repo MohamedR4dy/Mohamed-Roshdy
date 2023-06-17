@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"">
+<img width="250" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <h3 align="center">
   Welcome to Mohamed Roshdy's profile!
